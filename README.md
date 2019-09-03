@@ -1,4 +1,5 @@
 # iosPlist
+<<<<<<< HEAD
 
 #### 介绍
 {**以下是码云平台说明，您可以替换此简介**
@@ -39,3 +40,6 @@
 6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
 
 hello
+=======
+HELLO
+>>>>>>> faa49b6b9bbcf41a7c9f8c1a6865855ab003df89
