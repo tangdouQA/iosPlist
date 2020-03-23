@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://tdmp.tangdou.com/data/app_backup/jenkins-ios/202003231920_test_7.0.1/SquareDance.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://tangdouqa.github.io/iosPlist/tangdou.jpg</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.dreamwindows.video</string>
+                <key>bundle-version</key>
+                <string>7.0.1</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>糖豆</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
